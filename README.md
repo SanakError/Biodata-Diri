@@ -1,3 +1,5 @@
 # Biodata-Diri
 Aplikasi Biodata Sederhana Menggunakan Java
-![Form](https://user-images.githubusercontent.com/93025188/213951437-481a0a23-f349-48b3-8910-6f07d17e4b7a.png)
+
+
+![Form](https://user-images.githubusercontent.com/122989509/213951913-c6ea7a9c-d15f-473b-aed9-0f90015902a2.png)
